@@ -8,7 +8,7 @@ public class TestGit191 {
         stuInfo("20199002","王五");
 
         stuInfo("19406040112","沈琬琳");
-    }
+        stuInfo("19406040117","钟瑞琪");
 
     public static void stuInfo(String sid, String sname) {
         System.out.println("学号：" + sid + "姓名: " + sname);
