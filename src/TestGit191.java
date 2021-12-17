@@ -11,7 +11,7 @@ public class TestGit191 {
         stuInfo("19406040112","沈琬琳");
 
         stuInfo("19406040117","钟瑞琪");
-        
+
         stuInfo("19406040120","俞泽枭");
 
     }
