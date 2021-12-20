@@ -1,4 +1,3 @@
-
 public class TestGit191 {
     public static void main(String[] args) {
 
@@ -14,6 +13,8 @@ public class TestGit191 {
         stuInfo("19406040118","李美乐");
 
         stuInfo("19406040112","沈琬琳");
+
+        stuInfo("19406040113","林豪凯");
 
         stuInfo("19406040117","钟瑞琪");
 
