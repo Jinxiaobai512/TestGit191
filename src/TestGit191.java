@@ -29,6 +29,7 @@ public class TestGit191 {
         stuInfo("19406040119","梅子真");
         stuInfo("19406040136", "魏昌宇");
         stuInfo("19406040114","张轩睿 ");
+        stuInfo("19406040122","应轶林");
     }
 
     public static void stuInfo(String sid, String sname) {
