@@ -15,6 +15,9 @@ public class TestGit191 {
         stuInfo("19406040112","沈琬琳");
 
         stuInfo("19406040113","林豪凯");
+        stuInfo("19406040115","胡祺乐");
+
+        stuInfo("19406040121","李杰克");
 
         stuInfo("19406040117","钟瑞琪");
 
@@ -25,6 +28,7 @@ public class TestGit191 {
         stuInfo("19406040135","戴泽");
         stuInfo("19406040119","梅子真");
         stuInfo("19406040114","张轩睿 ");
+        stuInfo("19406040107","金凯杰 ");
     }
 
     public static void stuInfo(String sid, String sname) {
