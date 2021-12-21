@@ -39,7 +39,9 @@ public class TestGit191 {
         stuInfo("19406040110","林宇昊");
         stuInfo("19406040130","张家琪");
         stuInfo("19406040134","李智超");
+        stuInfo("19406040102","童书阳");
     }
+
 
     public static void stuInfo(String sid, String sname) {
         System.out.println("学号：" + sid + "姓名: " + sname);
