@@ -37,6 +37,7 @@ public class TestGit191 {
 
         stuInfo("19406040109","张思鹏");
         stuInfo("19406040110","林宇昊");
+        stuInfo("19406040130","张家琪");
 
     }
 
